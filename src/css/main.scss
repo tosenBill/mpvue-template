@@ -1,0 +1,27 @@
+@import "./common/reset";
+
+.clear::after{
+  content: '';
+  clear: both;
+  display: block;
+}
+.arrow-right{
+  display:inline-block;
+  border-top:2rpx solid;
+  border-right:2rpx solid;
+  width:16rpx;
+  height:16rpx;
+  border-color:#999;
+  transform:rotate(45deg);
+  margin-right:10rpx;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
