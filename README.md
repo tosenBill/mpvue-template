@@ -1,6 +1,6 @@
 
-### 测试域名：https://dpom.17dianjia.net
-### 正式域名：https://dpom.dianjia001.com
+### 测试域名：https://xxx.net
+### 正式域名：https://rrr.com
 
 ## 安装
 步骤 ① **npm install** ② **npm run dev**
