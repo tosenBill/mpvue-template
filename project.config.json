@@ -12,9 +12,11 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.2.0",
-	"appid": "wx360ae9e285849fec",
-	"projectname": "汇订货",
+	"appid": "wxf130bc935f203591",
+	"projectname": "%E6%B1%87%E8%AE%A2%E8%B4%A7",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
